@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# AI Bots ko block karne ke liye
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap:https://jagdamba-sweet.netlify.app/sitemap.xml
